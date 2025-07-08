@@ -1,8 +1,10 @@
 # 🔐 Cyber Security Quiz Platform
 
 An interactive and beautifully designed Cyber Security Quiz Platform, built with HTML, CSS, and Vanilla JavaScript.
-Test your cyber security knowledge with 25 thoughtfully crafted questions, covering topics from basic concepts to advanced attacks and defenses.
+Test your cybersecurity knowledge with 25 thoughtfully crafted questions, covering topics from basic concepts to advanced attacks and defences.
 Enjoy the quiz at your own pace with no time limit and a clean, modern UI.
+
+
 
 **✨ Features**
 
@@ -14,10 +16,13 @@ Enjoy the quiz at your own pace with no time limit and a clean, modern UI.
   - Built entirely with HTML, CSS, and Vanilla JavaScript
 
 
+
 **📥 Clone this repository:**
 
   - git clone https://github.com/your-username/cyber-security-quiz-platform.git
   - cd cyber-security-quiz-platform
+
+
 
 **🧰 Tech Stack**
 
@@ -25,11 +30,15 @@ Enjoy the quiz at your own pace with no time limit and a clean, modern UI.
   - CSS3
   - JavaScript (Vanilla)
 
+
+
 **🧪 Ideal For**
 
   - 🎓 Students preparing for exams
   - 🖥️ Professionals refreshing their skills
   - 🧠 Anyone interested in testing their cyber security knowledge
+
+
 
 **💡 Future Enhancements**
 
@@ -37,4 +46,3 @@ Enjoy the quiz at your own pace with no time limit and a clean, modern UI.
   - Add score saving & leaderboard
   - Include more questions & categories
   - Dark mode toggle
-
