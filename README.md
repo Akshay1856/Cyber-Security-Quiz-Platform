@@ -6,12 +6,12 @@ Enjoy the quiz at your own pace with no time limit and a clean, modern UI.
 
 **✨ Features**
 
-  ✅ 25 mixed-difficulty cyber security questions
-  ✅ Multiple choice (MCQ) format
-  ✅ No time limit — relaxed and beginner-friendly
-  ✅ Instant feedback after each question
-  ✅ Responsive, modern, and intuitive UI
-  ✅ Built entirely with HTML, CSS, and Vanilla JavaScript
+  - 25 mixed-difficulty cybersecurity questions
+  - Multiple choice (MCQ) format
+  - No time limit — relaxed and beginner-friendly
+  - Instant feedback after each question
+  - Responsive, modern, and intuitive UI
+  - Built entirely with HTML, CSS, and Vanilla JavaScript
 
 
 **📥 Clone this repository:**
